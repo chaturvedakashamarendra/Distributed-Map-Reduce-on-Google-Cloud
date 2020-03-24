@@ -1,0 +1,10 @@
+{
+
+        "input_data":["http://www.gutenberg.org/files/23218/23218-h/23218-h.htm",
+          "http://www.gutenberg.org/files/19362/19362-h/19362-h.htm",
+          "http://www.gutenberg.org/files/21279/21279-h/21279-h.htm"],
+        "map_fn":"inverted_index_map",
+        "reduce_fn":"inverted_index_reduce",
+        "output_location":"/home/chaturvedakash1/inverted_index_output.txt"
+
+}

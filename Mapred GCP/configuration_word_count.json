@@ -1,0 +1,8 @@
+{
+
+        "input_data":"http://www.gutenberg.org/files/3250/3250-h/3250-h.htm",
+        "map_fn":"word_count_map",
+        "reduce_fn":"word_count_reduce",
+        "output_location":"/home/chaturvedakash1/word_count_output.txt"
+
+}
